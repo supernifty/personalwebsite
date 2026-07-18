@@ -1,0 +1,56 @@
+[
+    {
+        "role": "Guest Lecturer",
+        "course": "Diagnostic Genomics",
+        "courseLink": "https://dental.unimelb.edu.au/",
+        "institutionLink": "https://unimelb.edu.au",
+        "institutionName": "Melbourne Dental School, The University of Melbourne",
+        "when": "Semester 1, 2019",
+        "note": ""
+    },
+    {
+        "role": "Tutor",
+        "course": "Master of Business Analytics",
+        "courseLink": "https://mbs.edu/education-development/degreeprograms/masterofbusinessanalytics",
+        "institutionLink": "https://unimelb.edu.au",
+        "institutionName": "The University of Melbourne",
+        "when": "Semester 1, 2019",
+        "note": "(54 students)"
+    },
+    {
+        "role": "Instructor",
+        "course": "Introduction to Unix",
+        "courseLink": "https://www.melbournebioinformatics.org.au/training-events/intro-unix/",
+        "institutionLink": "http://www.melbournebioinformatics.org/",
+        "institutionName": "Melbourne Bioinformatics",
+        "when": "October, 2018; June, 2018; March, 2018; September, 2017",
+        "note": "(68 students)"
+    },
+    {
+        "role": "Instructor",
+        "course": "Introduction to High Performance Computing",
+        "courseLink": "https://www.melbournebioinformatics.org.au/training-events/intro-unix/",
+        "institutionLink": "http://www.melbournebioinformatics.org/",
+        "institutionName": "Melbourne Bioinformatics",
+        "when": "June, 2018; March, 2018",
+        "note": "(21 students)"
+    },
+    {
+        "role": "Subject Co-ordinator",
+        "course": "Algorithms for Functional Genomics",
+        "courseLink": "https://handbook.unimelb.edu.au/2017/subjects/comp90014",
+        "institutionLink": "http://www.unimelb.edu.au/",
+        "institutionName": "The University of Melbourne",
+        "when": "Semester 2, 2017",
+        "note": "(44 students)"
+    },
+    {
+        "role": "Guest lecturer",
+        "course": "Master of Business Analytics",
+        "courseLink": "https://mbs.edu/education-development/degreeprograms/masterofbusinessanalytics",
+        "institutionLink": "http://www.unimelb.edu.au/",
+        "institutionName": "The University of Melbourne",
+        "when": "Semester 1, 2017",
+        "note": "(45 students)"
+    }
+]

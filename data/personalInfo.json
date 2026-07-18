@@ -1,0 +1,54 @@
+{
+    "title": "Peter Georgeson",
+    "name": "Dr Peter Georgeson",
+    "domain":"https://petergeorgeson.org//",
+    "copyright":"Peter Georgeson",
+    "socialMedia": {
+        "Twitter": "https://twitter.com/petergeorgeson",
+        "LinkedIn": "https://www.linkedin.com/in/peter-georgeson-b884524/",
+        "GoogleScholar": "https://scholar.google.com.au/citations?user=uOi-Ge4AAAAJ&hl=en&oi=ao",
+        "Orcid": "http://orcid.org/0000-0002-5096-4735",
+        "Github": "https://github.com/supernifty"
+    },
+    "about": {
+        "role": "postdoctoral cancer researcher",
+        "group": {
+            "name": "Colorectal Oncogenomics Group",
+            "link": "https://www.buchananlab.org/"
+        },
+        "department": {
+            "name": "UMCCR",
+            "link": "https://mdhs.unimelb.edu.au/centre-for-cancer-research"
+        },
+        "college": {
+            "name": "The University of Melbourne",
+            "link": "https://unimelb.edu.au"
+        },
+        "advisor": {
+            "name": "Associate Professor Dan Buchanan",
+            "link": "https://www.buchananlab.org/"
+        },
+        "email": "peter.georgeson AT unimelb.edu.au",
+        "interest": "mutational signatures, colorectal cancer, statistical learning, genomics, bioinformatics"
+    },
+    "education": [
+        {
+            "name": "Doctor of Philosophy",
+            "institution": "The University of Melbourne, Australia"
+        },
+        {
+            "name": "Master of Science (Computer Science)",
+            "institution": "The University of Melbourne, Australia"
+        },
+        {
+            "name": "Bachelor of Computer Engineering (Hons I)",
+            "institution": "The University of Newcastle, Australia"
+        },
+        {
+            "name": "Bachelor of Mathematics",
+            "institution": "The University of Newcastle, Australia"
+        }
+    ]
+
+
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "funder": "Cancer Council Grants-in-aid",
+        "link": "https://www.cancervic.org.au/downloads/research_grants/GIA2025/GIA2024_Buchanan%20Factsheet.pdf",
+        "when": "2025-2027",
+        "title": "Preventing bowel cancer caused by gut bacteria",
+        "amount": "$359,850"
+    },
+    {
+        "funder": "NHMRC Investigator Grant",
+        "link": "https://www.unimelb.edu.au/newsroom/news/2023/december/University-of-Melbourne-welcomes-NHMRC-Investigator-and-Ideas-Grants",
+        "when": "2024-2028",
+        "title": "Clinical application of tumour mutational signatures for precision prevention of colorectal cancer",
+        "amount": "$662,040"
+    },
+    {
+        "funder": "Cure Cancer Research Grant",
+        "link": "https://www.curecancer.com.au/projects-and-impact/peter-georgeson",
+        "when": "2024",
+        "title": "Genomic profiling of non-cancerous bowel tumours to improve prediction of progression to bowel cancer",
+        "amount": "$100,000"
+    },
+    {
+        "funder": "The University of Melbourne - Travel Funding",
+        "link": "https://mdhs.unimelb.edu.au/diversity-and-inclusion/news-and-events/conference-support-fund-for-ecmas",
+        "when": "2024",
+        "title": "Early Career Academic Conference Support Scheme",
+        "amount": "$4,646"
+    },
+    {
+        "funder": "Cancer Council Victoria Research Grant",
+        "link": "https://mdhs.unimelb.edu.au/centre-for-cancer-research/news-and-events/peter-georgeson-awarded-cancer-council-victoria-fellowship",
+        "when": "2023",
+        "title": "Linking gut bacteria to the development of colorectal cancer using multi-omic profiling",
+        "amount": "$81,030"
+    }
+]

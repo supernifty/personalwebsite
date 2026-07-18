@@ -15,7 +15,8 @@ TEMPLATES = {
   },
   'presentations': {
     'filename': 'data/presentations.json',
-    'template': '''<li><span><b>{{ title }}</b><br><i>{{ where }}</i> ({{ when }}). {{ type }}.<br><br></span></li>'''
+    'template': '''<li><span><b>{{ title }}</b><br><i>{{ where }}</i> ({{ when }}). {{ type }}.<br><br></span></li>''',
+    'url_template': '''<li><span><b><a href="{{ url }}" target="_blank" rel="noopener noreferrer">{{ title }}</a></b><br><i>{{ where }}</i> ({{ when }}). {{ type }}.<br><br></span></li>'''
   },
   'funding': {
     'filename': 'data/funding.json',
@@ -51,7 +52,7 @@ def main(template, ofh):
     pubs = json.load(open(TEMPLATES[t]['filename'], 'rt'))
     html = []
     for pub in pubs:
-      item = TEMPLATES[t]['template']
+      item = TEMPLATES[t].get('url_template', TEMPLATES[t]['template']) if pub.get('url') else TEMPLATES[t]['template']
       for k in pub:
         item = item.replace('{{{{ {} }}}}'.format(k), pub[k])
       html.append(item)
